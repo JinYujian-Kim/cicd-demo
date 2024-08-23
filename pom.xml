@@ -26,12 +26,14 @@
 		<tag/>
 		<url/>
 	</scm>
-	<properties>
-		<sonar.organization>JinYujian-Kim</sonar.organization>
-		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<java.version>17</java.version>
+	
+		<properties>
+			<sonar.organization>jinyujian-kim</sonar.organization>
+			<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+			<java.version>17</java.version>
+		  </properties>
+		
 
-	</properties>
 	<dependencies>
 		<dependency>
             <groupId>org.springframework.boot</groupId>

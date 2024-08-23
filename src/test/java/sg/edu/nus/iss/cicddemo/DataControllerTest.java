@@ -7,7 +7,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
 import sg.edu.nus.iss.cicddemo.Controller.DataController;
-// import "D:/NUS-SE/SWE5006/cicd-demo/target/classes/sg/edu/nus/iss/cicddemo/Controller/DataController.class";
 
 // Testing DataController
 @SpringBootTest
